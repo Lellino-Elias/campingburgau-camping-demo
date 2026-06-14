@@ -38,7 +38,7 @@ const campingburgau: CampsiteConfig = {
     {
       title: "Familiär & überschaubar",
       text: "Ein kleiner, familiär geführter Platz mit kurzen Wegen — mitten im Grünen und trotzdem zentral im Ort.",
-      image: { src: `${IMG}/gallery-d09ce581f7.webp`, alt: "Familiärer Campingplatz Schloss Burgau mit Stellplätzen" },
+      image: { src: `${IMG}/gallery-12a9b9d7a7.webp`, alt: "Sonniger Blick über die Stellplätze und Terrasse am Campingplatz Schloss Burgau" },
     },
   ],
 
@@ -105,6 +105,8 @@ const campingburgau: CampsiteConfig = {
     tag: "März bis Oktober",
     images: [
       { src: `${IMG}/gallery-7dc96ecb2e.webp`, alt: "Kunstvolles Fahrrad-Objekt im Raddorf Burgau" },
+      { src: `${IMG}/gallery-d09ce581f7.webp`, alt: "Sonniger Blick durch ein Sonnen-Tor auf die Stellplätze des Campingplatzes" },
+      { src: `${IMG}/gallery-e86103444d.webp`, alt: "Tasse mit Camping-Schloss-Burgau-Logo vor einem Wohnmobil am Stellplatz" },
       { src: `${IMG}/gallery-562831ae34.webp`, alt: "Lageplan Camping Schloss Burgau mit Stell- und Zeltplätzen sowie Schlossbad" },
     ],
   },
